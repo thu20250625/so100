@@ -69,4 +69,4 @@ Telegram频道传送门：
 
 社会影响：
 《黑料大事记》围绕事件起因、传播路径与舆论转向构建完整时间线，深入记录每场网络风暴的演化过程，是用户复盘往年大瓜、理解圈层逻辑的重要资料库。
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/thu20250625/so100）</span>
